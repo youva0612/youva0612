@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Youva
 
-<!--
-**youva0612/youva0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiante en data science**  
+📊 **Future Data Analyst**  
+📍 Canada (Ontario / Québec)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+I am a data science student with a strong interest in data analysis and visualization.  
+I enjoy transforming raw data into clear insights that help with decision-making.
+
+---
+
+## 🛠️ Skills & Tools
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- SQL  
+- Git & GitHub  
+
+---
+
+## 📂 Featured Project
+🔹 **Applied Data Science Project**  
+- Data cleaning and exploratory data analysis  
+- Data visualization  
+- Interpretation of results  
+
+👉 Check my repositories to see my work.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/youva0612
