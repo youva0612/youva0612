@@ -32,5 +32,3 @@ I enjoy transforming raw data into clear insights that help with decision-making
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/youva0612
